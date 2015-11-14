@@ -1,0 +1,14 @@
+{
+  "name": "async-loop",
+  "version": "0.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nipher",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "~1.1.1"
+  }
+}
